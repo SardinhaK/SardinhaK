@@ -7,5 +7,5 @@ I'm a Computer Engineering student at the Center for Informatics at the Federal 
 #### Artificial Intelligence: I'm fascinated by AI and machine learning, and I'm constantly exploring new ways to integrate these technologies into practical solutions.
 #### Embedded Systems: I have a keen interest in the intersection of hardware and software, particularly in developing embedded systems.
 
-## 📧 You can reach me at my e-mail: emanoelthyago3002@gmail.com or etcs@cin.ufpe.br
+## 📧 You can reach me at my e-mail: pfs@cin.ufpe.br or pericles113355@gmail.com
 
